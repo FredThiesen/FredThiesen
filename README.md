@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricardo F. Thiesen
 - 📚 IT Student
 - 🏠 RS - BR
-- 🌱 I’m currently learning some JavaScript frameworks, including Node and React, as well as Python and Pascal, due to college classes
+- 🌱 I’m currently learning some JavaScript frameworks, including React and Angular, as well as Python and Pascal, due to college classes
 - 📫 ricardothiesen@outlook.com
