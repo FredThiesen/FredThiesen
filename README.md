@@ -7,7 +7,8 @@
 - 📫 ricardothiesen@outlook.com
 
 ### Some of my pages:
-
+[RicardoThiesen.com.br](https://ricardothiesen.com.br)<br />
+<br />
 [FredThiesen](https://fredthiesen.github.io)<br />
 [Jogo da Véia (Tic Tac Toe) - Multiplayer](https://jogo-da-veia-client.herokuapp.com)<br />
 [Dofus Mage Calculator](https://fredthiesen.github.io/dofus-mage-calculator)<br />
