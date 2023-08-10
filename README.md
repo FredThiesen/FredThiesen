@@ -10,13 +10,6 @@
 [Ricardo Thiesen](https://ricardothiesen.com.br)<br />
 [Nutricionista Camila Sander](https://www.nutricamilasander.com.br/)<br />
 [Fred Thiesen](https://fredthiesen.github.io)<br />
-[Jogo da Véia (Tic Tac Toe) - Multiplayer](https://jogo-da-veia-client.herokuapp.com)<br />
-[Dofus Mage Calculator](https://fredthiesen.github.io/dofus-mage-calculator)<br />
-[Simple React Calculator](https://fredthiesen.github.io/Simple-React-Calculator)<br />
-[Linguagens de Programacao](https://fredthiesen.github.io/linguagens-de-programacao)<br />
-
-### React Native Apps:
-[Bus Finder](https://github.com/FredThiesen/bus-finder)<br />
 
 ### CodeWars:
 
