@@ -6,6 +6,4 @@
 - 🏠 🇧🇷
 - 📫 ricardothiesen@outlook.com
 
-### CodeWars:
-
 [![FredThiesen](https://www.codewars.com/users/FredThiesen/badges/large)](https://www.codewars.com/users/FredThiesen)
