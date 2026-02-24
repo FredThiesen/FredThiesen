@@ -1,8 +1,8 @@
 ### About me:
 
 - 👋 Hi, I’m Ricardo F. Thiesen
-- 💼 Mobile Software Engineer
-- 📚 IT Undergraduate
+- 💼 Senior Software Engineer
+- 📚 Bachelor’s Degree in Information Systems
 - 🏠 🇧🇷
 - 📫 ricardothiesen@outlook.com
 
